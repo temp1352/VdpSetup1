@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31717.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{CFB925FE-D03E-4466-A530-C1B9425F7FDF}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "VdpSetup1", "VdpSetup1.vdproj", "{FF897301-B8B5-4DC6-A43D-EBAE5C95C3B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Debug|Win32 = Debug|Win32
+		Release|Default = Release|Default
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF897301-B8B5-4DC6-A43D-EBAE5C95C3B0}.Debug|Default.ActiveCfg = Debug
+		{FF897301-B8B5-4DC6-A43D-EBAE5C95C3B0}.Debug|Default.Build.0 = Debug
+		{FF897301-B8B5-4DC6-A43D-EBAE5C95C3B0}.Debug|Win32.ActiveCfg = Debug
+		{FF897301-B8B5-4DC6-A43D-EBAE5C95C3B0}.Debug|Win32.Build.0 = Debug
+		{FF897301-B8B5-4DC6-A43D-EBAE5C95C3B0}.Release|Default.ActiveCfg = Release
+		{FF897301-B8B5-4DC6-A43D-EBAE5C95C3B0}.Release|Default.Build.0 = Release
+		{FF897301-B8B5-4DC6-A43D-EBAE5C95C3B0}.Release|Win32.ActiveCfg = Release
+		{FF897301-B8B5-4DC6-A43D-EBAE5C95C3B0}.Release|Win32.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{FF897301-B8B5-4DC6-A43D-EBAE5C95C3B0} = {CFB925FE-D03E-4466-A530-C1B9425F7FDF}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {476504BD-800F-4FBB-ACD1-55F9C1D9BC71}
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Debug|Win32 = Debug|Win32
+		Release|Default = Release|Default
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Debug|Win32 = Debug|Win32
+		Release|Default = Release|Default
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+EndGlobal
